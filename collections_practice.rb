@@ -49,8 +49,8 @@ def add_s(array)
     if i != array[1]
      array_new.push(i + "s")
   end
-  array_new
  end   
+ array_new
 end 
 
 
