@@ -48,6 +48,8 @@ def add_s(array)
   array.each do |i|
     if i != array[1]
      array_new.push(i + "s")
+    else 
+      array_new << i
   end
  end   
  array_new
