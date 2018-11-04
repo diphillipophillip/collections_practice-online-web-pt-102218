@@ -49,6 +49,7 @@ def add_s(array)
     if i != array[1]
      array_new << i + "s" 
   end
+  array_new
  end   
 end 
 
