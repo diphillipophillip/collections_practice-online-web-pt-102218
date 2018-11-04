@@ -47,7 +47,7 @@ def add_s(array)
   array.each do |i|
     if i != array[1]
       i + "s"
-    
+  end
  end   
 end 
 
