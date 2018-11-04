@@ -25,7 +25,7 @@ end
 def kesha_maker(array)
   array_new = []
   array.each do |i|
-    i<< 
+    i[2]<< 
   end 
 end 
 
