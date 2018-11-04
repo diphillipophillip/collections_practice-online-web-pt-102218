@@ -25,7 +25,7 @@ end
 def kesha_maker(array)
   array_new = []
   array.each do |i|
-    array_new << array.gsub!
+    array_new << array.string[]
   end 
 end 
 
