@@ -44,8 +44,8 @@ def sum_array(array)
 end 
 
 def add_s(array)
+  array_new = []
   array.each do |i|
-    array_new = []
     if i != array[1]
      array_new.push(i + "s")
   end
